@@ -1,4 +1,7 @@
-package co.annotate.latentDirichletAllocation;
+package latentDirichletAllocation;
+/* @author Adnan
+ * 
+ */
 
 public class LDAGibbsPrototype {
 	//===========================================================================================================

@@ -1,4 +1,4 @@
-package co.annotate.latentDirichletAllocation;
+package latentDirichletAllocation;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -15,6 +15,9 @@ import org.apache.lucene.search.Similarity;
 import co.annotate.LatentSemanticAnalysis.AnalyseDocs;
 import co.annotate.LatentSemanticAnalysis.AnalyticsSearch;
 import co.annotate.LatentSemanticAnalysis.MatrixOperations;
+
+/* @author Adnan  
+ */
 
 public class AnalyseWithLDA {
 	private String dirpath;

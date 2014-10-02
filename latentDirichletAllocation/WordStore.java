@@ -1,10 +1,13 @@
-package co.annotate.latentDirichletAllocation;
+package latentDirichletAllocation;
 
 import java.io.IOException;
 import java.util.HashMap;
 import org.apache.lucene.index.Term;
 import org.apache.lucene.index.TermEnum;
 
+/* @author Adnan
+ * 
+ */
 public class WordStore {
 
 	HashMap<String,Integer> store ;
