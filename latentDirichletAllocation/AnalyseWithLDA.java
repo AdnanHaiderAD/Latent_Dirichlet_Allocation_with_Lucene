@@ -162,7 +162,7 @@ public class AnalyseWithLDA {
 
 	}
 	//=========================================================================================================
-	// comparing performances of LDA and LSI by observing the document similarity scores
+	
 	
 	/** prints the distance scores between rows of the LDA generated doc by topic matrix**/
 	public void printLDADistanceMatrix(float[][] doctopicMatrix ){
